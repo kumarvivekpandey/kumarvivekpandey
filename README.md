@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumarvivekpandey
-- 👀 I’m interested in coding,development testing 
+- 👀 I’m interested in coding,development 
 - 🌱 I’m working in EY
 - 💞️ I’m looking to collaborate on any technology
 - 📫 How to reach me ...
