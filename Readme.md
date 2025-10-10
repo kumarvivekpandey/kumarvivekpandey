@@ -97,7 +97,7 @@ Feel free to reach out for collaborations, discussions, or just a chat about Dev
 
 - 📧 Email: vkpvivek1998@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/kumar-vivek-pandey/]
-- 🐦 Twitter: [Optional]
+
 
 ---
 
