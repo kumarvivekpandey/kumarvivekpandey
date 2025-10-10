@@ -5,7 +5,7 @@
 ### DevOps Engineer @ EY | Cloud & Automation Enthusiast
 
 [![Email](https://img.shields.io/badge/Email-vkpvivek1998%40gmail.com-red?style=flat-square&logo=gmail)](mailto:vkpvivek1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kumar-vivek-pandey/))
 
 </div>
 
@@ -96,7 +96,7 @@
 Feel free to reach out for collaborations, discussions, or just a chat about DevOps and Cloud technologies!
 
 - 📧 Email: vkpvivek1998@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/kumar-vivek-pandey/]
 - 🐦 Twitter: [Optional]
 
 ---
